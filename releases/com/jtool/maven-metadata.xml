@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>doc-builder-plugin</name>
+      <prefix>doc-builder</prefix>
+      <artifactId>doc-builder-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
