@@ -6,5 +6,10 @@
       <prefix>doc-builder</prefix>
       <artifactId>doc-builder-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>codegen-builder-plugin</name>
+      <prefix>codegen-builder</prefix>
+      <artifactId>codegen-builder-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
