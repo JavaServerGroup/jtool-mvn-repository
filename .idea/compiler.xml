@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="codegen-annotation" />
+        <module name="codegen-builder-plugin" />
+        <module name="CodeGenDemo" />
+        <module name="jtool-apiclient" />
+        <module name="jtool-mysql2" />
+        <module name="jtool-support" />
+        <module name="jtool-test" />
+        <module name="jtool-validation" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="codegen-annotation" target="1.5" />
+      <module name="codegen-builder-plugin" target="1.7" />
+      <module name="CodeGenDemo" target="1.8" />
+      <module name="doc-builder-plugin" target="1.7" />
+      <module name="jtool-apiclient" target="1.6" />
+      <module name="jtool-docGenerator" target="1.8" />
+      <module name="jtool-httpclient" target="1.8" />
+      <module name="jtool-mysql2" target="1.8" />
+      <module name="jtool-support" target="1.8" />
+      <module name="jtool-test" target="1.8" />
+      <module name="jtool-validation" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

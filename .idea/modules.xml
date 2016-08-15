@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CodeGenDemo/CodeGenDemo.iml" filepath="$PROJECT_DIR$/../CodeGenDemo/CodeGenDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../codegen-annotation/codegen-annotation.iml" filepath="$PROJECT_DIR$/../codegen-annotation/codegen-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../codegen-builder-plugin/codegen-builder-plugin.iml" filepath="$PROJECT_DIR$/../codegen-builder-plugin/codegen-builder-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jtool-apiclient/jtool-apiclient.iml" filepath="$PROJECT_DIR$/../jtool-apiclient/jtool-apiclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jtool-mvn-repository.iml" filepath="$PROJECT_DIR$/.idea/jtool-mvn-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jtool-mysql2/jtool-mysql2.iml" filepath="$PROJECT_DIR$/../jtool-mysql2/jtool-mysql2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jtool-support/jtool-support.iml" filepath="$PROJECT_DIR$/../jtool-support/jtool-support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jtool-test/jtool-test.iml" filepath="$PROJECT_DIR$/../jtool-test/jtool-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jtool-validation/jtool-validation.iml" filepath="$PROJECT_DIR$/../jtool-validation/jtool-validation.iml" />
+    </modules>
+  </component>
+</project>
